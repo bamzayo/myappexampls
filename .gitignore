@@ -1,0 +1,5 @@
+# add the file name
+
+log.text
+/dir1
+#*.text all text files will be ignored

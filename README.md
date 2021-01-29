@@ -1,3 +1,3 @@
-#My App
+#MyApp
 
 this is my practice app
